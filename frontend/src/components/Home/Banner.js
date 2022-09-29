@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../../imgs/logo.png";
+import agent from "../../agent";
 
 const Banner = (props) => {
   return (
